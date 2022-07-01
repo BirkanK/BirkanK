@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @BirkanK
+- 👀 I’m interested in History and Coding
+- 🌱 I’m currently learning Python and Java
+- 📫 How to reach me birkankarakas99@gmail.com 
